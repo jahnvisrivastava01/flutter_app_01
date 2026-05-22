@@ -16,8 +16,8 @@ My first Flutter app built while learning Flutter basics 🚀
 - Basic UI Layout
 
 ## 📱 Project
-A simple Profile Card UI built using Flutter.
-Main Flutter code is inside:
+-A simple Profile Card UI built using Flutter.
+-Main Flutter code is inside:
 lib/main.dart
 
 ## 🛠️ Tech Used
