@@ -1,4 +1,4 @@
-# Flutter Day 1
+# Flutter App 1
 
 My first Flutter app built while learning Flutter basics 🚀
 
