@@ -17,10 +17,14 @@ My first Flutter app built while learning Flutter basics 🚀
 
 ## 📱 Project
 A simple Profile Card UI built using Flutter.
+Main Flutter code is inside:
+lib/main.dart
 
 ## 🛠️ Tech Used
 - Flutter
 - Dart
+
+
 
 ## 📸 Features
 - Profile avatar
