@@ -1,17 +1,37 @@
-# flutter_app_01
+#  Flutter Day 1
 
-A new Flutter project.
+My first Flutter app built while learning Flutter basics 🚀
 
-## Getting Started
+## ✨ What I Learned
+- Widgets
+- Column & Row
+- Container
+- Center
+- SizedBox
+- Text Styling
+- CircleAvatar
+- Buttons
+- BoxDecoration
+- Border Radius
+- Basic UI Layout
 
-This project is a starting point for a Flutter application.
+## 📱 Project
+A simple Profile Card UI built using Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Used
+- Flutter
+- Dart
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 📸 Features
+- Profile avatar
+- Name & role text
+- Follow button
+- Styled card UI
+- Responsive centered layout
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+Run the project using:
+
+```bash
+flutter run
