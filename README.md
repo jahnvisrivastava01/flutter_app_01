@@ -1,41 +1,58 @@
-#  Flutter Day 1
+# Flutter Day 1
 
 My first Flutter app built while learning Flutter basics 🚀
 
-## ✨ What I Learned
+## 📱 Project Overview
+This is a simple Profile Card UI created using Flutter.
+
+The app includes:
+- Profile Avatar
+- Name & Role
+- Follow Button
+- Styled Card Layout
+- Basic Flutter UI Design
+
+---
+
+# ✨ What I Learned
+
+## Flutter Basics
 - Widgets
-- Column & Row
+- Scaffold
+- AppBar
 - Container
 - Center
+- Text
+- Column & Row
+- child vs children
+
+## UI Styling
+- Colors
+- Padding
 - SizedBox
-- Text Styling
-- CircleAvatar
-- Buttons
+- Alignment
 - BoxDecoration
 - Border Radius
-- Basic UI Layout
+- Shadows
 
-## 📱 Project
--A simple Profile Card UI built using Flutter.
--Main Flutter code is inside:
-lib/main.dart
+## Widgets Used
+- CircleAvatar
+- ElevatedButton
+- TextStyle
+- Icon
 
-## 🛠️ Tech Used
+---
+
+# 🛠️ Tech Stack
+
 - Flutter
 - Dart
 
+---
 
+# 📂 Important Files
 
-## 📸 Features
-- Profile avatar
-- Name & role text
-- Follow button
-- Styled card UI
-- Responsive centered layout
+Main Flutter code is inside:
 
-## 🚀 Getting Started
-
-Run the project using:
-
-```bash
-flutter run
+```plaintext
+lib/main.dart
